@@ -1,5 +1,6 @@
-Estadística II y Ciencia de Datos II
-INSTITUTO SUPERIOR POLITÉCNICO DE CÓRDOBA TECNICATURA SUPERIOR EN CIENCIA DE DATOS E INTELIGENCIA ARTIFICIAL
+# Estadística II y Ciencia de Datos II
+## INSTITUTO SUPERIOR POLITÉCNICO DE CÓRDOBA TECNICATURA SUPERIOR EN CIENCIA DE DATOS E INTELIGENCIA ARTIFICIAL
+
 📊 Proyecto ABP – DealData Exploración de datos de consumo digital
 
 Este proyecto forma parte del Aprendizaje Basado en Proyectos (ABP) de las materias:
